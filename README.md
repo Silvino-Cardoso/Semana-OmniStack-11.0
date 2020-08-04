@@ -1,12 +1,15 @@
-Projeto desenvolvido durante a Semana OmniStack 11.0  realizada entre os dias 23 e 29/03/220
+
+<h1> Projeto desenvolvido durante a Semana OmniStack 11.0 </h1>
 
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:	
+ <h3> Conhecimento aplicado </h3>
+<ul>
+ <li> Node.js</li>
+<li>React.js</li>
+<li>React Native</li>
+<li>Expo</li>
 
-Node.js
-React.js
-React Native
-Expo
 
-Projeto:
-"Be The Hero" é uma plataforma que conecta ONG's com doadores.
+<h2> "Be The Hero" é uma plataforma que conecta ONG's com doadores.</h2>
+
+
